@@ -47,6 +47,15 @@ Saitama is a simple one-punch solution to your group management needs and has be
 
 Should you be forking this repo then do not forget to star it - <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/animekaizoku/saitamarobot?color=white&label=%F0%9F%8C%9F%20star">
 
+<h3 align="center">
+    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
+</h3>
+
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Devilking12/kafilamusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+
+
+
+
 ## Note:
 Future updates on the code have been moved to a seperate repository that is now private and away from the toxic, ungrateful and cancerous marie community, we believe we have burned out blood enough for the leecher community that just wants to take, debate and laugh while bringing nothing progressive back to the repository, in lieu of the same we are now closed sourced. 
 
